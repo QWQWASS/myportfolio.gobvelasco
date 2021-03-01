@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportfolio.gobvelasco/static/css/main.751a0b02.chunk.css",
+    "main.js": "/myportfolio.gobvelasco/static/js/main.cf27e880.chunk.js",
+    "main.js.map": "/myportfolio.gobvelasco/static/js/main.cf27e880.chunk.js.map",
+    "runtime-main.js": "/myportfolio.gobvelasco/static/js/runtime-main.45f4ddb1.js",
+    "runtime-main.js.map": "/myportfolio.gobvelasco/static/js/runtime-main.45f4ddb1.js.map",
+    "static/js/2.01671d46.chunk.js": "/myportfolio.gobvelasco/static/js/2.01671d46.chunk.js",
+    "static/js/2.01671d46.chunk.js.map": "/myportfolio.gobvelasco/static/js/2.01671d46.chunk.js.map",
+    "index.html": "/myportfolio.gobvelasco/index.html",
+    "static/css/main.751a0b02.chunk.css.map": "/myportfolio.gobvelasco/static/css/main.751a0b02.chunk.css.map",
+    "static/js/2.01671d46.chunk.js.LICENSE.txt": "/myportfolio.gobvelasco/static/js/2.01671d46.chunk.js.LICENSE.txt",
+    "static/media/Video-1.50a77f0c.mp4": "/myportfolio.gobvelasco/static/media/Video-1.50a77f0c.mp4",
+    "static/media/img-1.95bbaa7f.jpg": "/myportfolio.gobvelasco/static/media/img-1.95bbaa7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45f4ddb1.js",
+    "static/js/2.01671d46.chunk.js",
+    "static/css/main.751a0b02.chunk.css",
+    "static/js/main.cf27e880.chunk.js"
+  ]
+}
