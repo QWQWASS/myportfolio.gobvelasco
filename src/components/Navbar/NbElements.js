@@ -160,6 +160,10 @@ export const NavRLinkMes = styled(LinkS)`
 	font-size: 13px;
 	background: rgba(18, 37, 154 ,0.4);
 font-family: 'Dancing Script', cursive;
+	&.active{
+	background: rgba(21,87,90,0.6);
+	color: #ffd700;
+}
 	&:hover{
 	transition: all 0.8s ease-in-out;
 		color: #ffd700;

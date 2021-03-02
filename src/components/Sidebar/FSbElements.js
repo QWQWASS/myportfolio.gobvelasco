@@ -111,6 +111,7 @@ export const SidebarSLink = styled(LinkS)`
 	display: flex;
 	text-align: center;
 	padding: 1rem 0;
+	margin: 0.2rem 0rem;
 	justify-content: center;
 	align-items: center;
 	text-decoration: none;
