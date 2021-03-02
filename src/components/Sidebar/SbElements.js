@@ -125,8 +125,12 @@ export const SidebarBtnRLink = styled(LinkS)`
 	border:none;
 	cursor: pointer;
 	font-family: 'Dancing Script', cursive;
+	&.active{
+		background: rgba(21,87,90,0.6);
+	color: #ffd700;
+	}
 &:hover{
-	background: rgba(18,27,30,0.8);
+	background: rgba(21,87,90,0.6);
 	color: #ffd700;
 	transition: all 0.8s ease-in-out;
 	cursor: pointer;

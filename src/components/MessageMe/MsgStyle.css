@@ -17,7 +17,7 @@ textarea {
 
   position: relative;
   width: 100%;
-  min-height: 120vh;
+  height: 100vh;
   padding: 2rem;
   background: linear-gradient(rgb(4, 17, 78)0%, rgb(11, 29, 115)100%);
   overflow: hidden;
@@ -231,12 +231,14 @@ textarea.input {
   line-height: 1;
   margin-bottom: 0.5rem;
 }
-
+.container{
+     min-height: 114vh;
+}
   .form {
     grid-template-columns: 1fr;
     left: 0;
     top: 0;
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     margin: 0.5rem 0rem;
   }
 
@@ -262,7 +264,7 @@ textarea.input {
 }
   .container {
     padding: 1.5rem;
-
+   
   }
 
   form,

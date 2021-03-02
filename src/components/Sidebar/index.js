@@ -22,7 +22,7 @@ const Sidebar = ({isOpen, toggle}) => {
 						<SidebarSLink to="educ" onClick={toggle}smooth={true} spy={true} exact='true' duration={500} offset={-20}>Education</SidebarSLink>
 					
 						<SidebarBtnWrap>
-							<SidebarBtnRLink to="message-me" onClick={toggle} smooth={true} spy={true} exact='true' duration={500} offset={-75}>Message Me</SidebarBtnRLink>
+							<SidebarBtnRLink to="message-me" onClick={toggle} smooth={true} spy={true} exact='true' duration={500} offset={-55}>Message Me</SidebarBtnRLink>
 						</SidebarBtnWrap>
 					</SidebarMenu>
 
