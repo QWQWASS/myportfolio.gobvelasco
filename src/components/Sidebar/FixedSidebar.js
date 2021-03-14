@@ -2,7 +2,7 @@ import React from 'react';
 import {SidebarContainer, Icon, ClosedIcon,
 		SidebarWrapper, SidebarMenu, SidebarSLink,
 		SidebarBtnWrap, SidebarBtnRLink, SideImgCont, Sideimg} from './FSbElements';
-import MyPhoto from '../../assets/images/img-1.jpg';
+import MyPhoto from '../../assets/images/2x2.jpg';
 
 
 const FixedSidebar = ({scroollTops}) => {
